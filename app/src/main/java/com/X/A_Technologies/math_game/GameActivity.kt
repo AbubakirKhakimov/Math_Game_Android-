@@ -64,7 +64,7 @@ class GameActivity : AppCompatActivity() {
     }
 
     fun timer(){
-        object :CountDownTimer(Datas.timeGame+1000,2000){
+        object :CountDownTimer(Datas.timeGame+1000,1000){
             override fun onTick(millisUntilFinished: Long) {
                 if (!Datas.timerWork){
                     cancel()
