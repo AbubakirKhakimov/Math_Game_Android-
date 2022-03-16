@@ -1,9 +1,9 @@
-package com.X.A_Technologies.math_game
+package com.x.a_technologies.math_game
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.TextView
-import com.X.A_Technologies.math_game.databinding.ActivityGameBinding
+import com.x.a_technologies.math_game.databinding.ActivityGameBinding
 import kotlin.random.Random.Default.nextInt
 import android.animation.ValueAnimator
 

@@ -1,9 +1,9 @@
-package com.X.A_Technologies.math_game
+package com.x.a_technologies.math_game
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.X.A_Technologies.math_game.databinding.ActivityMainBinding
+import com.x.a_technologies.math_game.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 

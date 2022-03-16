@@ -1,4 +1,4 @@
-package com.X.A_Technologies.math_game
+package com.x.a_technologies.math_game
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

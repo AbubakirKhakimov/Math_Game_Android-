@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.X.A_Technologies.math_game">
+    package="com.x.a_technologies.math_game">
 
     <uses-permission android:name="android.permission.VIBRATE" />
     <application
@@ -11,10 +11,10 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MathGame">
         <activity
-            android:name=".GameActivity"
+            android:name="com.x.a_technologies.math_game.GameActivity"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name="com.x.a_technologies.math_game.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

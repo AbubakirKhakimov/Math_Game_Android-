@@ -7,7 +7,7 @@ android {
     compileSdk 31
 
     defaultConfig {
-        applicationId "com.X.A_Technologies.math_game"
+        applicationId "com.x.a_technologies.math_game"
         minSdk 21
         targetSdk 31
         versionCode 1
